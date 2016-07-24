@@ -29,4 +29,4 @@ for room in SparkResult:
 	# print room name
 	print ("> Room:", room)
 # Print the number of rooms (length of SparkResult array)
-print ("----- TOTAL Room Count:", len(SparkResult))
+print ("----- TOTAL Rooms Count:", len(SparkResult))
